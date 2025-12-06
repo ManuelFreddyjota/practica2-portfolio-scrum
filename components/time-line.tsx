@@ -1,4 +1,4 @@
-import { dataAboutPage } from "../data";
+import { dataAboutPage } from "@/data";
 
 const TimeLine = () => {
     return (
