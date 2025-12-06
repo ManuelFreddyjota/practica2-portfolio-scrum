@@ -3,7 +3,7 @@
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination } from 'swiper/modules';
 
-import { serviceData } from '../data';
+import { serviceData } from '@/data';
 
 const SliderServices = () => {
     return (
